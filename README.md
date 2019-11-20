@@ -1,1 +1,1 @@
-# personal_study
+# Study Notes
